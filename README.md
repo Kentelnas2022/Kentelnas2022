@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KENT ZOREL B. ELNAS</h1>
 <h3 align="center">Life, like programming, is full of trial and error.</h3>
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/11/d6/40/11d6400fc19b885c47de3c1c78deab5d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kentelnas2022&label=Profile%20views&color=0e75b6&style=flat" alt="kentelnas2022" /> </p>
 
