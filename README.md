@@ -1,4 +1,4 @@
-https://www.pinterest.ph/pin/3940718414909728/
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.)](https://rishavchanda.i)
 <h1 align="center">Hi 👋, I'm KENT ZOREL B. ELNAS</h1>
 <h3 align="center">Life, like programming, is full of trial and error.</h3>
 <img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg">
